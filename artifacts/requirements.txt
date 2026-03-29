@@ -1,0 +1,8 @@
+scikit-learn==1.3.0
+pandas
+numpy
+mlflow
+google-cloud-aiplatform
+joblib
+matplotlib
+seaborn
